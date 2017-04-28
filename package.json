@@ -1,0 +1,12 @@
+{
+  "name": "functional-js-intro",
+  "version": "0.0.1",
+  "description": "Intro to functional programmingin in JavaScript",
+  "main": "index.js",
+  "keywords": [
+    "functional",
+    "programming",
+    "javascript"
+  ],
+  "author": "Amit K. Sharma <a.k.sharma1@outlook.com>"
+}
